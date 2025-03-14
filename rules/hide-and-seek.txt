@@ -1,0 +1,7 @@
+Hide and Seek Rules
+
+Imposter has 0.25 vision and crewmates have 3.0 vision
+Imposter rules: Announce your color at start of round, stand still while kill cooldown is active
+Imposter rules: Only call comms sabotage (no doors)
+Crewmate rules: Run away from imposter, announce imposter location (if you are ALIVE)
+Ghost rules: Finish tasks, DO NOT announce imposter location
